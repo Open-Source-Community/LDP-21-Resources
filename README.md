@@ -12,6 +12,10 @@ partition shrinking, and the installation process.
 
 [How to Dual Boot Ubuntu 20.04 LTS and Windows 10](https://www.youtube.com/watch?v=-iSAyiicyQY&t=324s)
 
+## Linux Distributions Technical Reviews
+
+[Linux Reviews](https://github.com/Open-Source-Community/Linux-Reviews)
+
 # Learn More About Linux 
 
 1. Beginners play-list Explaining Basic Linux Concepts and Commands 
@@ -23,6 +27,9 @@ partition shrinking, and the installation process.
 3. Previous OSC-Linux Workshop Content  
 - [OSC'19-Linux-Workshop-Sessions](https://github.com/Open-Source-Community/OSC19-Linux-Workshop-Sessions)
 
-4. If you want more content contact us on Facebook and ask for linux moderator.
+4. Sharpen you linux skills by solving more challenges
+- [Over The Wire - Bandit](https://overthewire.org/wargames/bandit/)
+
+5. If you want more content contact us on Facebook and ask for linux moderator.
 
 - [OSC - Open Source Community](https://www.facebook.com/oscgeeks/)
