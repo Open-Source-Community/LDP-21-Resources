@@ -5,7 +5,7 @@
 - This is a step by step guide to walk you through the partitions checking, 
 partition shrinking, and the installation process.
 
-[Guide](./Linux-Installation-Guide.pdf) by [Martina Gerges](https://github.com/martinagerges)
+[Linux Installation Guide](./Linux-Installation-Guide.pdf) by [Martina Gerges](https://github.com/martinagerges)
 
 
 ## Installing Ubuntu as a dual boot alongside Windows [VIDEO]
