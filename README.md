@@ -7,7 +7,7 @@ partition shrinking, and the installation process.
 
 [Linux Installation Guide [ENGLISH]](Linux-Installation-Guide-[English].pdf) by [Martina Gerges](https://github.com/martinagerges)
 
-[Linux Installation Guide [ARABIC]](Linux-Installation-Guide-[Arabic].pdf) by [Ahmed Al Mayyah](https://github.com/Satharus)
+[Linux Installation Guide [ARABIC]](Linux-Installation-Guide-[Arabic].pdf) by [Adamn Zahran](https://gitlab.com/lordadamson)
 
 ## Installing Ubuntu as a dual boot alongside Windows [VIDEO]
 
