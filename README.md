@@ -13,6 +13,11 @@ partition shrinking, and the installation process.
 
 [How to Dual Boot Ubuntu 20.04 LTS and Windows 10](https://www.youtube.com/watch?v=-iSAyiicyQY&t=324s)
 
+## Installing Linux on virtual machine
+
+[Installing Ubuntu on a Virtual Machine - thenewboston
+](https://www.youtube.com/watch?v=FvziRqkLrEU&list=PL6gx4Cwl9DGCkg2uj3PxUWhMDuTw3VKjM&index=3)
+
 ## Linux Distributions Technical Reviews
 
 [Linux Reviews](https://github.com/Open-Source-Community/Linux-Reviews)
@@ -28,9 +33,12 @@ partition shrinking, and the installation process.
 3. Previous OSC-Linux Workshop Content  
 - [OSC'19-Linux-Workshop-Sessions](https://github.com/Open-Source-Community/OSC19-Linux-Workshop-Sessions)
 
-4. Sharpen you linux skills by solving more challenges
+4. Solve our challenges [UPDATED CONSTANTLY] 
+- [OSC'21-Linux-Challenges](https://github.com/Open-Source-Community/Linux-Challenges)
+
+5. Sharpen you linux skills by solving more challenges
 - [Over The Wire - Bandit](https://overthewire.org/wargames/bandit/)
 
-5. If you want more content contact us on Facebook and ask for linux moderator.
+6. If you want more content contact us on Facebook and ask for linux moderator.
 
 - [OSC - Open Source Community](https://www.facebook.com/oscgeeks/)
